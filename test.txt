@@ -1,0 +1,4 @@
+newtext1.txt
+newtext2.txt
+test.txt
+testfile2.txt
