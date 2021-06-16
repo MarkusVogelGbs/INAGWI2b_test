@@ -1,0 +1,12 @@
+total 15
+4 drwxr-xr-x 1 CL04+Markus.Vogel 4096   0 Jun 16 13:39 ./
+0 drwxr-xr-x 1 CL04+Markus.Vogel 4096   0 Jun 15 20:19 ../
+4 drwxr-xr-x 1 CL04+Markus.Vogel 4096   0 Jun 16 13:38 .git/
+1 -rw-r--r-- 1 CL04+Markus.Vogel 4096  25 Jun 16 13:38 newtest1.txt
+1 -rw-r--r-- 1 CL04+Markus.Vogel 4096  25 Jun 16 13:37 newtext1.tsxt
+1 -rw-r--r-- 1 CL04+Markus.Vogel 4096  76 Jun 16 13:37 newtext1.txt
+1 -rw-r--r-- 1 CL04+Markus.Vogel 4096  93 Jun 16 13:37 newtext2.txt
+1 -rw-r--r-- 1 CL04+Markus.Vogel 4096  26 Jun 16 13:38 test.txt
+0 -rw-r--r-- 1 CL04+Markus.Vogel 4096   0 Jun 16 13:39 test3
+1 -rw-r--r-- 1 CL04+Markus.Vogel 4096 268 Jun 16 13:38 test4.txt
+1 -rw-r--r-- 1 CL04+Markus.Vogel 4096  53 Jun 16 13:37 testfile
